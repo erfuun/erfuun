@@ -80,4 +80,4 @@ I like meeting new people.
 <a href="https://www.dev.to/efnninja" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a>
 </p>
 
-Thank you for reading this. Putting time on something is always appreciatable. [is that even a word?]
+Thank you for reading this. Putting time on something is always appreciatable.
