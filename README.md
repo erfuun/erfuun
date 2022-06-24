@@ -18,13 +18,10 @@ Make that thing of yours even better. I can help either with the big picture or 
 - `fmt.Printf('Golang')` good
 - `JavaScript` & `TypeScript` good
 - `Node.js` good
-- `Vue.js` good
 - `React.js` getting better
 - `<HTML>` + `{CSS}` + `class='tailwindcss'` great
 - `DATABASE` & `SQL` very good
 - `Git` & `Git-Flow` great
-- `^ RegExp $` not bad
-- `Redis` it's Easy
 - `$ Unix` not bad
 - Other skills not mentioned...
 
@@ -36,7 +33,7 @@ _Mainly build web applications as a web developer. Built applications with Pytho
 
 ## ⚡ Fun fact
 - Fitness 
-- I run
+- Climbing
 
 ## 📫 Reach Out
 I like meeting new people.
