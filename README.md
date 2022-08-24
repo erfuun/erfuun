@@ -1,17 +1,13 @@
 ### Hi there 👋
 
-## 🔭 What I do ? 
-Make that thing of yours even better. I can help either with the big picture or with specifics. 
-
-## 🌱 The Full Shebang
-
-- Build killer websites as a "full-stack" developer
-- Leader
-- Tech Builder
-- Not sure what you need? I can help with that too.
-
-
 ## 👯 Skills / Languages
+
+## 🤔 ABOUT ME?
+Sure!
+_Hi, I'm Erfan, an 17 years old developer. Started working with computers since the release of early Windows Vista. Started programming when 14 with Python and JavaScript, working with HTML and early CSS to create static websites._
+
+_Mainly build web applications as a web developer. Built applications with Python and Postgresql, Nodejs, Golang, HTML5, CSS3, JavaScript and AJAX. Don't like CMSs but I have worked with WordPress. Apart from web, have Golang, Git, Unix Bash and Regular Expression experience. Also working as a freelancer so you're welcome to contact to hire. The crazy thing is I also do programming in my free time._
+
 
 - `print(Python)` great
 - `{{ Django }}` great
@@ -22,19 +18,6 @@ Make that thing of yours even better. I can help either with the big picture or 
 - `DATABASE` & `SQL` good
 - `Git` & `Git-Flow` great
 - Other skills not mentioned...
-
-## 🤔 ABOUT ME?
-Sure!
-_Hi, I'm Erfan, an 17 years old developer. Started working with computers since the release of early Windows Xp. Started programming when 14 with Python and JavaScript, working with HTML and early CSS to create static websites._
-
-_Mainly build web applications as a web developer. Built applications with Python and Postgresql, Nodejs, Golang, HTML5, CSS3, JavaScript and AJAX. Don't like CMSs but I have worked with WordPress. Apart from web, have Golang, Git, Unix Bash and Regular Expression experience. Also working as a freelancer so you're welcome to contact to hire. The crazy thing is I also do programming in my free time._
-
-## 📫 Reach Out
-I like meeting new people.
-*   🌍  I'm based in Isfahan
-*   🖥️  See my portfolio at [erfuun.github.io](http://erfuun.github.io)
-*   ✉️  You can contact me at [erfansadeghinezhad@outlook.com](mailto:erfansadeghinezhad@outlook.com)
-*   🧠  I'm learning "TO BE BETTER"
 
 
 <p align="center">
@@ -58,5 +41,3 @@ I like meeting new people.
 <a href="http://www.instagram.com/itzerfun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 <a href="https://www.twitter.com/erfantoday" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
-
-Thank you for reading this. Putting time on something is always appreciatable.
