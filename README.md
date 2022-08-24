@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ## 🤔 ABOUT ME?
 Sure!
