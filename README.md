@@ -35,6 +35,5 @@ _Mainly build web applications as a web developer. Built applications with Pytho
                     
 <p align="center">
 <a href="https://www.linkedin.com/in/erfan-sadeghinezhad" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
-<a href="http://www.instagram.com/itzerfun" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)"></img></a>
-<a href="https://www.twitter.com/erfantoday" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)"></img></a>
+<a href="http://www.instagram.com/itzerfun" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></img></a>
 </p>
