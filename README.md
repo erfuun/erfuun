@@ -11,7 +11,6 @@ _Mainly build web applications as a web developer. Built applications with Pytho
 - `{{ Django }}` great
 - `JavaScript` & `TypeScript` good
 - `Node.js` good
-- `React.js` getting better
 - `<HTML>` + `{CSS}` + `class='tailwindcss'` great
 - `DATABASE` & `SQL` good
 - `Git` & `Git-Flow` great
@@ -21,7 +20,6 @@ _Mainly build web applications as a web developer. Built applications with Pytho
   
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
