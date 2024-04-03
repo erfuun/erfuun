@@ -1,7 +1,7 @@
 
 ## 🤔 ABOUT ME?
 Sure!
-_Hi, I'm Erfan, an 18 years old developer. Started working with computers since the release of early Windows Vista. Started programming when 14 with Python and JavaScript, working with HTML and early CSS to create static websites._
+_Hi, I'm Erfan, an 19 years old developer. Started working with computers since the release of early Windows Vista. Started programming when 14 with Python and JavaScript, working with HTML and early CSS to create static websites._
 
 _Mainly build web applications as a web developer. Built applications with Python and Postgresql, Nodejs, HTML5, CSS3, JavaScript and AJAX. Don't like CMSs but I have worked with WordPress. Apart from web, have Golang, Git, Unix Bash and Regular Expression experience. Also working as a freelancer so you're welcome to contact to hire. The crazy thing is I also do programming in my free time._
 
