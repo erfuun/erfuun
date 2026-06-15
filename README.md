@@ -54,4 +54,4 @@ I enjoy learning new technologies, contributing to projects, and exploring softw
 I'm always interested in discussing software engineering, backend development, Django, and new opportunities.
 
 * LinkedIn: https://www.linkedin.com/in/erfan-sadeghinezhad
-* Instagram: https://www.instagram.com/itzerfun
+* Telegram: https://www.t.me/erfantoday
